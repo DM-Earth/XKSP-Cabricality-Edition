@@ -1,0 +1,7 @@
+*.DS_Store
+*.mrpack
+/packwiz
+*.zip
+.vscode/settings.json
+openloader-resources
+*.pxd
